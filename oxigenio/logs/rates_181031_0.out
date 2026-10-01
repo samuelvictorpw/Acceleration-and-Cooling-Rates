@@ -1,0 +1,12 @@
+Iniciando Job Array ID: 0 em Thu Jul 30 07:45:37 AM -03 2026
+
+=== INICIANDO TAREFA SLURM 0 ===
+Processando arquivo: source.txt -> Pasta: data_oxygen
+
+======================================================================
+=== PIPELINE (O-16): lendo 'source.txt' -> salvando em 'data_oxygen/' ===
+======================================================================
+=== [data_oxygen] Calculando parâmetros e elétrons (1 fontes) ===
+[SDSS J010852.48-003919.4] Calculating Electrons (1D Transport)...
+   [SDSS J010852.48-003919.4] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...

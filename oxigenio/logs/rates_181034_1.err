@@ -1,0 +1,1051 @@
+
+EnvironmentNameNotFound: Could not find conda environment: FR0cat
+You can list all discoverable environments with `conda info --envs`.
+
+
+mkdir -p failed for path /home/samuel.bernardo/.config/matplotlib: [Errno 13] Permission denied: '/home/samuel.bernardo'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-s0zvicud because there was an issue with the default path (/home/samuel.bernardo/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py:524: IntegrationWarning: Extremely bad integrand behavior occurs at some points of the
+  integration interval.
+  val_interna, _ = spi.quad(integrando_interno, 2.0 * mec2_erg, epsilon_max, points=pts, limit=300, epsabs=0, epsrel=1e-3)
+Traceback (most recent call last):
+  File "/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py", line 835, in <module>
+    resultados = run_pipeline(source_file, output_dir)
+  File "/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py", line 813, in run_pipeline
+    process_and_save_oxygen(source_name, base_p, n_ph_func, output_dir=output_dir)
+  File "/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py", line 744, in process_and_save_oxygen
+    rate_Op_O = Op_rates(base_p['n_c_prime'], c, E_prime_arr_O)
+  File "/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py", line 462, in Op_rates
+    sigma = sigma_Op_inel(E_O_GeV, A)
+  File "/scratch/users/samuel.bernardo/FR0cat/Oxigênio/oxigenio.py", line 453, in sigma_Op_inel
+    if E_p_equiv_GeV <= E_th: return 0.0
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()

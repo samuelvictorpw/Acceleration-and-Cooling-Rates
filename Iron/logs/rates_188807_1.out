@@ -1,0 +1,10 @@
+Iniciando Job Array ID: 1 em Thu Aug 13 10:13:18 AM -03 2026
+
+=== INICIANDO TAREFA SLURM 1 ===
+Processando arquivo: source2.txt -> Pasta: data2_iron
+
+======================================================================
+=== PIPELINE (O-16): lendo 'source2.txt' -> salvando em 'data2_iron/' ===
+======================================================================
+=== Carregando Tabelas de Fotodesintegração (TALYS) ===
+Finalizado em Thu Aug 13 10:13:20 AM -03 2026

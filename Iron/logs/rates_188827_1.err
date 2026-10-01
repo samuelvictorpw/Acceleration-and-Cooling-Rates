@@ -1,0 +1,17 @@
+
+EnvironmentNameNotFound: Could not find conda environment: FR0cat
+You can list all discoverable environments with `conda info --envs`.
+
+
+mkdir -p failed for path /home/samuel.bernardo/.config/matplotlib: [Errno 13] Permission denied: '/home/samuel.bernardo'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-e0pq88a4 because there was an issue with the default path (/home/samuel.bernardo/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "/scratch/users/samuel.bernardo/FR0cat/Iron/iron.py", line 886, in <module>
+    resultados = run_pipeline(source_file, output_dir)
+  File "/scratch/users/samuel.bernardo/FR0cat/Iron/iron.py", line 864, in run_pipeline
+    process_and_save_iron(source_name, base_p, n_ph_func, output_dir=output_dir)
+  File "/scratch/users/samuel.bernardo/FR0cat/Iron/iron.py", line 775, in process_and_save_iron
+    N_grid_O, N_O_interp_2d, _ = build_N_grid(E_grid_O, z_grid, 'oxygen', tp_O, n_ph_func_approx1, True)
+  File "/scratch/users/samuel.bernardo/FR0cat/Iron/iron.py", line 398, in build_N_grid
+    raise ValueError(f"Espécie desconhecida: {species}")
+ValueError: Espécie desconhecida: oxygen

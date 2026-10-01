@@ -1,0 +1,287 @@
+Iniciando Job Array ID: 2 em Tue Sep  8 03:17:31 PM -03 2026
+
+=== INICIANDO TAREFA SLURM 2 ===
+Processando arquivo: source3.txt -> Pasta: data3_helium
+
+======================================================================
+=== PIPELINE (He-4): lendo 'source3.txt' -> salvando em 'data3_helium/' ===
+======================================================================
+=== Carregando Tabelas de Fotodesintegração (TALYS) ===
+   [AVISO] Nenhum canal de fotodesintegração encontrado em './xs_pd_thin.txt' para Z=2, N=2 (He-4). A perda por fotodesintegração será tratada como desprezível (rate ~1e-30). Verifique se este arquivo foi gerado pelo TALYS para o alvo Hélio-4, e não apenas para o Ferro-56 original.
+=======================================================
+
+[SDSS J165830.05+252324.9] Calculating Electrons (1D Transport)...
+   [SDSS J165830.05+252324.9] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   -> [IC] Generating IC rate table...
+   [SDSS J165830.05+252324.9] -> Transport approx 1 (com IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   === [Elétrons] Concluído em 5m 15.90s ===
+[SDSS J170358.49+241039.5] Calculating Electrons (1D Transport)...
+   [SDSS J170358.49+241039.5] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   -> [IC] Generating IC rate table...
+   [SDSS J170358.49+241039.5] -> Transport approx 1 (com IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   === [Elétrons] Concluído em 5m 1.70s ===
+[SDSS J171522.97+572440.2] Calculating Electrons (1D Transport)...
+   [SDSS J171522.97+572440.2] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   -> [IC] Generating IC rate table...
+   [SDSS J171522.97+572440.2] -> Transport approx 1 (com IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   === [Elétrons] Concluído em 5m 3.84s ===
+[SDSS J172215.41+304239.8] Calculating Electrons (1D Transport)...
+   [SDSS J172215.41+304239.8] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   -> [IC] Generating IC rate table...
+   [SDSS J172215.41+304239.8] -> Transport approx 1 (com IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   === [Elétrons] Concluído em 5m 5.96s ===
+=== [data3_helium] Parâmetros salvos em 'data3_helium/all_calculated_parameters.csv' ===
+
+=== [data3_helium] Calculando núcleos de hélio (4 fontes) ===
+[SDSS J165830.05+252324.9] Calculating helium nuclei (Z=2, A=4)
+   [SDSS J165830.05+252324.9] -> Transporte de hélio (sync + adiabático + He-p + p-gamma + fotodesintegração)...
+   [Transport] Executando paralelização para helium...
+   === [Hélio] Concluído em 38m 9.00s ===
+[SDSS J170358.49+241039.5] Calculating helium nuclei (Z=2, A=4)
+   [SDSS J170358.49+241039.5] -> Transporte de hélio (sync + adiabático + He-p + p-gamma + fotodesintegração)...
+   [Transport] Executando paralelização para helium...
+   === [Hélio] Concluído em 38m 27.54s ===
+[SDSS J171522.97+572440.2] Calculating helium nuclei (Z=2, A=4)
+   [SDSS J171522.97+572440.2] -> Transporte de hélio (sync + adiabático + He-p + p-gamma + fotodesintegração)...
+   [Transport] Executando paralelização para helium...
+   === [Hélio] Concluído em 38m 28.13s ===
+[SDSS J172215.41+304239.8] Calculating helium nuclei (Z=2, A=4)
+   [SDSS J172215.41+304239.8] -> Transporte de hélio (sync + adiabático + He-p + p-gamma + fotodesintegração)...
+   [Transport] Executando paralelização para helium...
+   === [Hélio] Concluído em 38m 29.08s ===
+=== [data3_helium] PIPELINE CONCLUÍDO para 'source3.txt' ===
+
+=== TAREFA 2 FINALIZADA com 4 fontes ===
+Finalizado em Tue Sep  8 06:11:34 PM -03 2026

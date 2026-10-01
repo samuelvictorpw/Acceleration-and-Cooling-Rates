@@ -1,0 +1,16 @@
+
+
+ssh rita.anjos@200.137.67.4
+salloc -N 1 -c 2 --mem=16G -t 02:00:00 -p ry-short
+srun --pty bash
+source /home/rita.anjos/Samuel/miniconda3/bin/activate
+conda activate /home/rita.anjos/Samuel/samuel_env
+jupyter lab --no-browser --ip=0.0.0.0 --port=8888
+
+terminal 2
+ssh -L 8888:node17:8888 rita.anjos@200.137.67.4
+
+
+rsync -avh --progress --partial --inplace rita.anjos@200.137.67.4:/home/rita.anjos/Samuel/Func /home/samuel/Trabalhos/PHD/paperfr0/
+
+

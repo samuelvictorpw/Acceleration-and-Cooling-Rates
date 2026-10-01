@@ -1,0 +1,79 @@
+Iniciando Job Array ID: 1 em Thu Jul 30 07:57:13 AM -03 2026
+
+=== INICIANDO TAREFA SLURM 1 ===
+Processando arquivo: source2.txt -> Pasta: data2_oxygen
+
+======================================================================
+=== PIPELINE (O-16): lendo 'source2.txt' -> salvando em 'data2_oxygen/' ===
+======================================================================
+=== [data2_oxygen] Calculando parâmetros e elétrons (1 fontes) ===
+[SDSS J010852.48-003919.4] Calculating Electrons (1D Transport)...
+   [SDSS J010852.48-003919.4] -> Transport approx 0 (sem IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   -> [IC] Generating IC rate table...
+   [SDSS J010852.48-003919.4] -> Transport approx 1 (com IC)...
+   [Transport] Executando paralelização para electron...
+   -> [Fótons] Generating photon table (Sync + IC)...
+      Calculando componente Síncrotron...
+      Calculando componente Compton Inverso (IC)...
+        Progress: 40/1000
+        Progress: 80/1000
+        Progress: 120/1000
+        Progress: 160/1000
+        Progress: 200/1000
+        Progress: 240/1000
+        Progress: 280/1000
+        Progress: 320/1000
+        Progress: 360/1000
+        Progress: 400/1000
+        Progress: 440/1000
+        Progress: 480/1000
+        Progress: 520/1000
+        Progress: 560/1000
+        Progress: 600/1000
+        Progress: 640/1000
+        Progress: 680/1000
+        Progress: 720/1000
+        Progress: 760/1000
+        Progress: 800/1000
+        Progress: 840/1000
+        Progress: 880/1000
+        Progress: 920/1000
+        Progress: 960/1000
+        Progress: 1000/1000
+   === [Elétrons] Concluído em 6m 0.14s ===
+=== [data2_oxygen] Parâmetros salvos em 'data2_oxygen/all_calculated_parameters.csv' ===
+
+=== [data2_oxygen] Calculando núcleos de oxigênio (1 fontes) ===
+[SDSS J010852.48-003919.4] Calculating Oxygen nuclei (Z=8, A=16)
+   [SDSS J010852.48-003919.4] -> Transporte de oxigênio (sync + adiabático + O-p + p-gamma + fotodesintegração)...
+   [Transport] Executando paralelização para oxygen...
+Finalizado em Thu Jul 30 08:50:28 AM -03 2026
